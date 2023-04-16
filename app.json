@@ -10,43 +10,43 @@
       "Gojo",
       "Anime"
     ],
-    "repository": "https://github.com/Gojo-Bots/Gojo_Satoru",
+    "repository": "https://github.com/RIOYTD/Gojo_Satoru",
     "success_url": "https://t.me/GojoSuperbot",
     "env": {
       "BOT_TOKEN": {
         "description": "Your telegram bot token, get from @Botfather in telegram.",
         "required": true,
-        "value": ""
+        "value": "6187386005:AAFgKW2GKqHBzWykaWO4U4N7j6DnWKlzsew"
       },
       "API_ID": {
         "description": "Get API_ID from my.telegram.org, used for pyrogram base.",
         "required": true,
-        "value": ""
+        "value": "23569852"
       },
       "API_HASH": {
         "description": "Get API_HASH from my.telegram.org, used for pyrogram base.",
         "required": true,
-        "value": ""
+        "value": "b5f19469a1e04e0ce2064d8da6f134a1"
       },
       "DB_URI": {
         "description": "Your MongoDB connection string.",
         "required": true,
-        "value": ""
+        "value": "mongodb+srv://sunmoni:sonukamonu67890@cluster0.bxwwoba.mongodb.net/?retryWrites=true&w=majority"
       },
       "DB_NAME": {
         "description": "Your MongoDB database name.",
         "required": true,
-        "value": ""
+        "value": "sunmoni"
       },
       "OWNER_ID": {
         "description": "Your user ID as an integer.",
         "required": true,
-        "value": "1344569458"
+        "value": "5277267198"
       },
       "SUPPORT_GROUP": {
         "description": "Your Telegram support group chat username where user's can contact in case of a problem..",
         "required": true,
-        "value": "gojo_bots_network"
+        "value": "toman_zodiac"
       },
       "MESSAGE_DUMP": {
         "description": "Event logs channel where bot will send updates.",
